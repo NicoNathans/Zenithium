@@ -17,6 +17,6 @@ Requirements:
 
 Windows 7, 8, 8.1, 10, or 11 (Some tweaks may work on Windows XP and Vista, but support is limited and effectiveness is minimal)
 
-Administrator Privileges are required.
+Administrator Privileges.
 
 For more information, please read README.txt and INSTALLATION.txt
