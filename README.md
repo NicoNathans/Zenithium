@@ -9,7 +9,7 @@ Guns Page: https://guns.lol/niconathans
 
 Disclaimer:
 
-This package modifies Windows system and hardware-related settings.
+This pack modifies Windows system and hardware-related settings.
 
 The author (NicoNathans) is not responsible for system instability, data loss, or any damage caused by using this pack.
 
