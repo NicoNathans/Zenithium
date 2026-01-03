@@ -1,7 +1,5 @@
 # Zenithium
-Performance improving package for Windows.
-
-This performance pack is designed to improve Windows responsiveness and optimize system behavior for better performance.
+This is a performance pack is designed to improve Windows responsiveness and optimize system behavior for better performance.
 
 It is intended for users experiencing slow system performance, low FPS, high latency, or general responsiveness issues.
 
