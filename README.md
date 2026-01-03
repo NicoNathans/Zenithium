@@ -1,2 +1,24 @@
 # Zenithium
-Performance improving Package for Windows
+Performance improving package for Windows.
+
+This performance pack is designed to improve Windows responsiveness and optimize system behavior for better performance.
+
+It is intended for users experiencing slow system performance, low FPS, high latency, or general responsiveness issues.
+
+Author: NicoNathans
+
+Guns Page: https://guns.lol/niconathans
+
+Disclaimer:
+
+This package modifies Windows system and hardware-related settings.
+
+The author (NicoNathans) is not responsible for system instability, data loss, or any damage caused by using this pack.
+
+Requirements:
+
+Windows 7, 8, 8.1, 10, or 11 (Some tweaks may work on Windows XP and Vista, but support is limited and effectiveness is minimal)
+
+Administrator Privileges are required.
+
+For more information, please read README.txt and INSTALLATION.txt
