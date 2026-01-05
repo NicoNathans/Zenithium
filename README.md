@@ -3,9 +3,9 @@ This is a performance pack is designed to improve Windows responsiveness and opt
 
 It is intended for users experiencing slow system performance, low FPS, high latency, or general responsiveness issues.
 
-AUTHOR: NicoNathans
+INFORMATION ON AUTHOR: NicoNathans
 
-GUNS PAGE: https://guns.lol/niconathans
+Guns Page: https://guns.lol/niconathans
 
 DISCLAIMER:
 
