@@ -3,17 +3,17 @@ This is a performance pack is designed to improve Windows responsiveness and opt
 
 It is intended for users experiencing slow system performance, low FPS, high latency, or general responsiveness issues.
 
-Author: NicoNathans
+AUTHOR: NicoNathans
 
-Guns Page: https://guns.lol/niconathans
+GUNS PAGE: https://guns.lol/niconathans
 
-Disclaimer:
+DISCLAIMER:
 
 This pack modifies Windows system and hardware-related settings.
 
 The author (NicoNathans) is not responsible for system instability, data loss, or any damage caused by using this pack.
 
-Requirements:
+REQUIREMENTS:
 
 Windows 7, 8, 8.1, 10, or 11 (Some tweaks may work on Windows XP and Vista, but support is limited and effectiveness is minimal)
 
